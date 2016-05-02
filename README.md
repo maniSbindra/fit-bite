@@ -10,7 +10,7 @@ This has the code for the slack pet bot and the sound intensity api
 5. AZURE_STORAGE_ACCOUNT_ACCESS_KEY : Azure Storage account access key
 
 ## Usage
-### Note : Currently there is no NLP / LUIS integration!
-### Typing "show me tom" in the slack channel where the BOT has been invited to will display the most recent image from the container
-### Typing "show me tom" in the slack channel where the BOT has been invited to will display the current health prediction for the pet (using machine learning service). Integration with the machine learning service is currently pending.
+#### Note : Currently there is no NLP / LUIS integration!
+#### Typing "show me tom" in the slack channel where the BOT has been invited to will display the most recent image from the container
+#### Typing "show me tom" in the slack channel where the BOT has been invited to will display the current health prediction for the pet (using machine learning service). Integration with the machine learning service is currently pending.
 
