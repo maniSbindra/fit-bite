@@ -3,7 +3,7 @@
   "version": "1.5.1",
   "description": "A library for creating a full Slack client",
   "scripts": {
-    "start": "coffee ./devBotModules/vstsBot.coffee",
+    "start": "coffee ./petBotModules/petBot.coffee",
     "test": "mocha --compilers coffee:coffee-script/register --reporter spec",
     "prepublish": "grunt prepublish"
   },

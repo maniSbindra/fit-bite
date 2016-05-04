@@ -2,6 +2,8 @@
 fit-bite pet monitoring system.
 This has the code for the slack pet bot and the sound intensity api 
 
+## The main application logic file is petBotModules/petBot.coffee
+
 ## Pet Bot Configuration : Following environment variables need to be set
 1. SLACK_BOT_TOKEN : Bot custom integration token from slack
 2. AZURE_STORAGE_ACCOUNT_BASE_URL : THe Base url of the Azure Storage account
