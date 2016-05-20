@@ -1,5 +1,4 @@
-# fit-bite
-This has the code for the slack pet bot and the sound intensity api, which are components of the fit-bite solutions
+# PetBot Details
 
 ## The main application logic file is petBotModules/petBot.coffee
 
