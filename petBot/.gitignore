@@ -2,3 +2,4 @@ node_modules
 *.js
 .idea
 setupenv.sh
+/solution_overview/PetBot.pptx
