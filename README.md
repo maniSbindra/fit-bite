@@ -1,11 +1,11 @@
 # Fit-Bite
 
 ## Context
-<TOADD Context of why and how the solution is relevant>
+TOADD Context of why and how the solution is relevant
 
 ## Solution Overview
 ![Solution Overview](https://raw.githubusercontent.com/maniSbindra/fit-bite/master/Solution%20Overview/fit-bite-solution-overview.jpg "Solution Overview")
-<TOADD : Solution FLow and Description>
+TOADD : Solution FLow and Description
 
 ## Solution Software Components
 * Fit-Bite Sensor Prototype - Core IOT UWP Application. For details please refer https://github.com/gsamant/FitBite 
