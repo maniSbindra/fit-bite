@@ -1,4 +1,10 @@
-# Fit-Bite Solution
+# Fit-Bite
+
+## Context
 
 ## Solution Overview
-![Solution Overview](https://raw.githubusercontent.com/maniSbindra/devOpsBot/master/solution%20overview/DevBot.jpg "Solution Overview")
+![Solution Overview](https://raw.githubusercontent.com/maniSbindra/fit-bite/master/Solution_Overview/fit-bite-solution-overview.jpg "Solution Overview")
+
+## Solution Component
+* Fit-Bite Sensor Prototype
+  UWP Application
