@@ -1,10 +1,10 @@
 # Fit-Bite
 
 ## Context
- There are thousands of pet owners around the world, who are forced to leave their pets alone, when they leave for work every day. These owners are anxious about how their pets are doing, till the time they get back home. What would help is this situation is a pet monitoring solution, which monitors the health of the pet, and can predict the pet’s health, and can also alert the pet owners in case there appears to be any variations in their pet’s normal metric (like temperature, sound intensity etc) trends. 
- 
- 
-This solution is a prototype which monitors pet parameters like temperature, humidity, sound intensity via sensors and the pets past history gathered from its visit to the veterinarian, and then predicts the probability of the pet falling sick in the near future. In the current version, pet owners can interact with the prediction engine, using the PetBot chat bot. The owner can also request for the most recent pet snaps via this interaction. The Solution can also send proactive alerts to the chat channel when values of parameters like sound intensity goes beyond the normal trends for the pet.
+ There are thousands of pet owners around the world who leave their pets alone at home when they leave for work every day. These owners are anxious about how their pets are doing till the time they get back home. A pet monitoring solution can be very helpful to pet owners in these situations. Hence we came up with a solution which monitors the health parameters of the pet, can predict variations in the pet’s health and can also alert the pet owners in case there appears to be any variations in their pet’s normal metric (like temperature, sound intensity etc) trends. 
+
+
+This IOT-based solution is a prototype which monitors pet parameters like temperature, humidity, sound intensity via sensors, the pets past history gathered from its visit to the veterinarian and then predicts the probability of the pet falling sick in the near future. In the current version, pet owners can interact with the prediction engine using the PetBot chat bot. The owner can also request for the most recent pet snaps via this interaction. The Solution can also send proactive alerts to the chat channel when values of parameters like sound intensity goes beyond the normal trends for the pet.
 
 
 ## Solution Overview
